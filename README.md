@@ -54,18 +54,18 @@ Para rodar localmente:
    git clone https://github.com/FernandesOliveiraa/Performance-AI.git
 
 2. Acesse a pasta
-
+```bash
 cd Performance-AI
 
 
 3. Instale dependências
-
+```bash
 npm install
 
 
 4. Inicie em modo dev
-
+```bash
 npm run dev
 
-
+___
 Abra o navegador e veja a aplicação funcionando automaticamente.
